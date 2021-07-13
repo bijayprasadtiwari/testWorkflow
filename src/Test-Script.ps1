@@ -5,11 +5,11 @@ function Test-Script {
         [string]$Name
     )
     Begin {
-
+		[int]$dummy = 0
     }
 
     Process {
-
+		[int]$anotherDummy = 0
     }
     End {
     }
